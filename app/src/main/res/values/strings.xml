@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Zomato</string>
+    <string name="pizza_desc">Try our new pizza</string>
+    <string name="pizaa_content">Order now and get 40% off!</string>
+</resources>
